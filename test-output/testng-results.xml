@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T08:08:39Z" name="Default suite" finished-at="2025-01-28T08:09:19Z" duration-ms="39904">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T08:08:39Z" name="Default test" finished-at="2025-01-28T08:09:19Z" duration-ms="39904">
+      <class name="org.execution.RunnerClass">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:08:39Z" name="browserLaunch" finished-at="2025-01-28T08:08:46Z" duration-ms="6458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="verifyTheCurrentUrl()[pri:-1, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:08:46Z" name="verifyTheCurrentUrl" finished-at="2025-01-28T08:08:47Z" duration-ms="1120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheCurrentUrl -->
+        <test-method signature="verifyTheTitle()[pri:0, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:08:47Z" name="verifyTheTitle" finished-at="2025-01-28T08:08:47Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheTitle -->
+        <test-method signature="toTestWhetherUserAbleToSearchTheStockSymbolTeslaOnTheYahooFinanceHomePage()[pri:1, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:08:47Z" name="toTestWhetherUserAbleToSearchTheStockSymbolTeslaOnTheYahooFinanceHomePage" finished-at="2025-01-28T08:08:48Z" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toTestWhetherUserAbleToSearchTheStockSymbolTeslaOnTheYahooFinanceHomePage -->
+        <test-method signature="verifyTheAutoSuggestUponTypingTheTSLA()[pri:2, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:08:48Z" name="verifyTheAutoSuggestUponTypingTheTSLA" finished-at="2025-01-28T08:09:18Z" duration-ms="30150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheAutoSuggestUponTypingTheTSLA -->
+        <test-method signature="validateTheTeslaStockPage()[pri:3, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:09:18Z" name="validateTheTeslaStockPage" finished-at="2025-01-28T08:09:18Z" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTheTeslaStockPage -->
+        <test-method signature="verifyTesleStockPrice()[pri:4, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:09:18Z" name="verifyTesleStockPrice" finished-at="2025-01-28T08:09:18Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTesleStockPrice -->
+        <test-method signature="verifyUserAbleTocaptueAdditionalInformationlikePreviousCloseAndVolumeFromTheStockDetailsPage()[pri:5, instance:org.execution.RunnerClass@13330ac6]" started-at="2025-01-28T08:09:18Z" name="verifyUserAbleTocaptueAdditionalInformationlikePreviousCloseAndVolumeFromTheStockDetailsPage" finished-at="2025-01-28T08:09:19Z" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserAbleTocaptueAdditionalInformationlikePreviousCloseAndVolumeFromTheStockDetailsPage -->
+      </class> <!-- org.execution.RunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
